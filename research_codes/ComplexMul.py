@@ -266,7 +266,7 @@ class ComplexMul():
 
   def predict(self, X_test):
 
-    self.t_classifierProba = ((self.classifier.predict_proba(X_test))).toarray()
+    self.t_classifierProba = self.classifier.predict_proba(X_test).toarray()
     
     prediction = []
     k = 0

@@ -19,7 +19,8 @@ X_test, y_test, features_test, labels_test = load_dataset_dump('scikit_ml_learn_
 X = np.concatenate((X_train.toarray(), X_test.toarray()))
 y = np.concatenate((y_train.toarray(), y_test.toarray()))
 
-parameters = {'k' : [5, 7, 10, 13], 'lambd' : [0, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8], 'threshold': [0.4, 0.5, 0.6, 0.7, 0.8, 0.9], 'classifier': [MLkNN()]}
+
+parameters = {'k' : [5, 7, 10, 13], 'lambd' : [0, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8], 'threshold': [0.4, 0.5, 0.6, 0.7, 0.8, 0.9], 'classifier': [BinaryRelevance(GaussianNB()), BinaryRelevance(tree.DecisionTreeClassifier())]}
 score = 'accuracy'
 ks = parameters['k']
 lambds = parameters['lambd']
@@ -34,18 +35,20 @@ scores = {}
 for k in ks:
   for lambd in lambds:
     for threshold in thresholds:
-      parameters_ = 'k: ' + str(k) + ' Lambda: ' + str(lambd) + ' Threshold: ' + str(threshold) + ' Classifier: MLkNN'
-      scores.update({parameters_: 0})
+      for classifier in classifiers:
+        parameters_ = 'k: ' + str(k) + ' Lambda: ' + str(lambd) + ' Threshold: ' + str(threshold) + ' Classifier: MLkNN'
+        scores.update({parameters_: 0})
 
 for train_index, test_index in kf.split(X):
   for k in ks:
     for lambd in lambds:
       for threshold in thresholds:
-        model = cm.ComplexMul(k = k, classifier = classifiers[0], lambd = lambd, threshold = threshold)
-        model.fit(X[train_index], y[train_index])
-        parameters_ = 'k: ' + str(k) + ' Lambda: ' + str(lambd) + ' Threshold: ' + str(threshold) + ' Classifier: MLkNN'
-        value = (metrics.accuracy_score(model.predict(X[test_index]).flatten(), y[test_index].flatten()))
-        scores[parameters_] += value
+        for classifier in classifiers:
+          model = cm.ComplexMul(k = k, classifier = classifier, lambd = lambd, threshold = threshold)
+          model.fit(X[train_index], y[train_index])
+          parameters_ = 'k: ' + str(k) + ' Lambda: ' + str(lambd) + ' Threshold: ' + str(threshold) + ' Classifier: MLkNN'
+          value = (metrics.accuracy_score(model.predict(X[test_index]).flatten(), y[test_index].flatten()))
+          scores[parameters_] += value
       
 ans = max(scores.items(), key = operator.itemgetter(1))
 
