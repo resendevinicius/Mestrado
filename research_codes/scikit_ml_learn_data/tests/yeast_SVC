@@ -1,0 +1,19 @@
+Nome da base: yeast
+------------------------------------------
+ClassifierChain(classifier=SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False),
+        require_dense=[True, True])
+Subset Accuracy:  0.0174482006543
+Hamming Loss:  0.232668639975
+Accuracy:  0.767331360025
+------------------------------------------
+BinaryRelevance(classifier=SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False),
+        require_dense=[True, True])
+Subset Accuracy:  0.0174482006543
+Hamming Loss:  0.232902321234
+Accuracy:  0.767097678766

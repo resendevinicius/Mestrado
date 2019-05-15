@@ -1,0 +1,19 @@
+Nome da base: scene
+------------------------------------------
+ClassifierChain(classifier=SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False),
+        require_dense=[True, True])
+Subset Accuracy:  0.241638795987
+Hamming Loss:  0.136566332219
+Accuracy:  0.863433667781
+------------------------------------------
+BinaryRelevance(classifier=SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False),
+        require_dense=[True, True])
+Subset Accuracy:  0.217391304348
+Hamming Loss:  0.140607580825
+Accuracy:  0.859392419175

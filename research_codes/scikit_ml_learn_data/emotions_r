@@ -1,0 +1,25 @@
+Nome da base: emotions
+MLkNN(ignore_first_neighbours=0, k=15, s=1.0)
+Subset Accuracy:  0.0792079207921
+Hamming Loss:  0.28795379538
+Accuracy:  0.71204620462
+------------------------------------------
+ClassifierChain(classifier=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best'),
+        require_dense=[True, True])
+Subset Accuracy:  0.148514851485
+Hamming Loss:  0.295379537954
+Accuracy:  0.704620462046
+------------------------------------------
+BinaryRelevance(classifier=SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False),
+        require_dense=[True, True])
+Subset Accuracy:  0.143564356436
+Hamming Loss:  0.264851485149
+Accuracy:  0.735148514851

@@ -1,0 +1,27 @@
+Nome da base: birds
+MLkNN(ignore_first_neighbours=0, k=10, s=1.0)
+Subset Accuracy:  0.467492260062
+Hamming Loss:  0.0537722014013
+Accuracy:  0.946227798599
+------------------------------------------
+ClassifierChain(classifier=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best'),
+        require_dense=[True, True])
+Subset Accuracy:  0.40866873065
+Hamming Loss:  0.0601270979306
+Accuracy:  0.939872902069
+------------------------------------------
+BinaryRelevance(classifier=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best'),
+        require_dense=[True, True])
+Subset Accuracy:  0.411764705882
+Hamming Loss:  0.0594753136712
+Accuracy:  0.940524686329
