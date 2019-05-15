@@ -29,14 +29,13 @@ classifiers = parameters['classifier']
 number_splits = 5
 kf = KFold(n_splits = number_splits)
 
-
 scores = {}
 
 for k in ks:
   for lambd in lambds:
     for threshold in thresholds:
       for classifier in classifiers:
-        parameters_ = 'k: ' + str(k) + ' Lambda: ' + str(lambd) + ' Threshold: ' + str(threshold) + ' Classifier: MLkNN'
+        parameters_ = 'k: ' + str(k) + ' Lambda: ' + str(lambd) + ' Threshold: ' + str(threshold) + ' Classifier: ' + type(classifier).__name__ + ' ' + str(classifier.classifier).split('(')[0]
         scores.update({parameters_: 0})
 
 for train_index, test_index in kf.split(X):
@@ -46,7 +45,7 @@ for train_index, test_index in kf.split(X):
         for classifier in classifiers:
           model = cm.ComplexMul(k = k, classifier = classifier, lambd = lambd, threshold = threshold)
           model.fit(X[train_index], y[train_index])
-          parameters_ = 'k: ' + str(k) + ' Lambda: ' + str(lambd) + ' Threshold: ' + str(threshold) + ' Classifier: MLkNN'
+          parameters_ = 'k: ' + str(k) + ' Lambda: ' + str(lambd) + ' Threshold: ' + str(threshold) + ' Classifier: ' + type(classifier).__name__ + ' ' + str(classifier.classifier).split('(')[0]
           value = (metrics.accuracy_score(model.predict(X[test_index]).flatten(), y[test_index].flatten()))
           scores[parameters_] += value
       
