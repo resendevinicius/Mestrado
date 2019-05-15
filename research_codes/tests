@@ -1,0 +1,8 @@
+Avg Score: 0.7680909652
+k: 13 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance GaussianNB
+
+real	40m9,618s
+user	39m56,401s
+sys	0m6,543s
+
+
