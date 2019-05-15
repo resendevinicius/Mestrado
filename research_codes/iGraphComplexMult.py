@@ -93,7 +93,6 @@ class ComplexMul():
     clus = [0 for i in range(self.labels)]
     assortativity = [0 for i in range(self.labels)]
     for i in range(self.labels):      
-      # print(self.clustering[i], ig.Graph.transitivity_avglocal_undirected(self.graphs[i]))
       clus[i] = 1 - (math.fabs((self.clustering[i]) - ig.Graph.transitivity_avglocal_undirected(self.graphs[i])) * self.proportion[i])
       assortativity[i] = 2 - (math.fabs(self.assortativity[i] - ig.Graph.assortativity_degree(self.graphs[i])) * self.proportion[i])
 
@@ -128,47 +127,3 @@ class ComplexMul():
       k += 1
 
     return np.asarray(prediction)
-
-
-  # def _get_param_names(cls):
-  #   init = getattr(cls.__init__, 'deprecated_original', cls.__init__)
-  #   if init is object.__init__:
-  #     return []
-
-  #   init_signature = inspect.signature(init)
-  #   parameters = [p for p in init_signature.parameters.values() if p.name != 'self' and p.kind != p.VAR_KEYWORD]
-  #   for p in parameters:
-  #     if p.kind == p.VAR_POSITIONAL:
-  #       raise RuntimeError('deu ruim')
-
-  #   return sorted([p.name for p in parameters])
-
-  # def set_params(self, **params):
-  #   if not params:
-  #     return self
-
-  #   valid_params = self.get_params(deep = True)
-  #   nested_params = defaultdict(dict)
-  #   for key, value in params.items():
-  #     key, delim, sub_key = key.partition('__')
-  #     if key not in valid_params:
-  #       raise ValueError('deu ruim', key)
-  #     if delim:
-  #       nested_params[key][sub_key] = value
-  #     else:
-  #       setattr(self, key, value)
-  #       valid_params[key] = value
-
-  #   for key, sub_params in nested_params.items():
-  #     valid_params[key].set_params(**sub_params)
-  #   return self
-
-  # def get_params(self, deep = True):
-  #   out = dict()
-  #   for key in self._get_param_names():
-  #     value = getattr(self, key, None)
-  #     if deep and hasattr(value, 'get_params'):
-  #       deep_items = value.get_params().items()
-  #       out.update((key + '__' + k, val) for k, val in deep_items)
-  #     out[key] = value
-  #   return out

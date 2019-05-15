@@ -13,8 +13,8 @@ import numpy as np
 import sklearn.metrics as metrics
 import operator
 
-X_train, y_train, features_train, labels_train = load_dataset_dump('/scikit_ml_learn_data/emotions-train.scikitml.bz2')
-X_test, y_test, features_test, labels_test = load_dataset_dump('/scikit_ml_learn_data/emotions-test.scikitml.bz2')
+X_train, y_train, features_train, labels_train = load_dataset_dump('scikit_ml_learn_data/emotions-train.scikitml.bz2')
+X_test, y_test, features_test, labels_test = load_dataset_dump('scikit_ml_learn_data/emotions-test.scikitml.bz2')
 
 X = np.concatenate((X_train.toarray(), X_test.toarray()))
 y = np.concatenate((y_train.toarray(), y_test.toarray()))
