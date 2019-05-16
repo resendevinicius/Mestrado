@@ -1,5 +1,10 @@
+# Author: Vinicius Resende 
+# 15/05/2019 - 20:05
+# resendeviniciush@gmail.com
+
 import numpy as np
 import random
+
 
 class HiddenLayer():
   weights = []
