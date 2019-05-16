@@ -95,7 +95,7 @@ class ComplexMul():
     for i in range(self.labels):      
       clus[i] = 1 - (math.fabs((self.clustering[i]) - ig.Graph.transitivity_avglocal_undirected(self.graphs[i])) * self.proportion[i])
       assortativity[i] = 2 - (math.fabs(self.assortativity[i] - ig.Graph.assortativity_degree(self.graphs[i])) * self.proportion[i])
-
+      print(ig.Graph.assortativity_degree(self.graphs[i]), i)
     _max = np.max(assortativity)
     for i in range(self.labels):
       assortativity[i] /= _max

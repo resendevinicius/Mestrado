@@ -165,11 +165,17 @@ class ComplexMul():
       newA = A[i] 
       newB = B[i]
       newC = C[i]
-      newA /= self.number_edges[i]
-      newB /= self.number_edges[i]
-      newB = newB ** 2
-      newC /= self.number_edges[i]
-      self.globalAssortativity.append((newA - newB) / (newC - newB))
+      if self.number_edges[i] == 0:
+        self.globalAssortativity.append(math.nan)
+      else :
+        newA /= self.number_edges[i]
+        newB /= self.number_edges[i]
+        newB = newB ** 2
+        newC /= self.number_edges[i]
+        if newC - newB == 0:
+          self.globalAssortativity.append(math.nan)
+        else :
+          self.globalAssortativity.append((newA - newB) / (newC - newB))
 
     return self
 
@@ -193,12 +199,18 @@ class ComplexMul():
           b += adjDegree_2 + adjDegree
           c += (adjDegree_2 ** 2) + (adjDegree ** 2)
 
-    a /= number_edges
-    b /= number_edges
-    b *= b
-    c /= number_edges
 
-    return ((a - b) / (c - b))
+    if number_edges == 0:
+      return math.nan
+    else: 
+      a /= number_edges
+      b /= number_edges
+      b *= b
+      c /= number_edges
+      if(c - b == 0):
+        return math.nan
+      else :
+        return ((a - b) / (c - b))
 
   def get_test_variation(self, test_object):
     distances = []
@@ -242,10 +254,16 @@ class ComplexMul():
       for v in ind_ranking:
         clus[i] += self.vertex_clus_contribution(i, v)
       clus[i] += self.vertex_clus_contribution(i, self.n)    
-      assortativity[i] = (self.add_test_assortativity(i, self.n, number_edges[i], assortativity[i]))
-      clus[i] /= relevantDegree[i]
-      clus[i] = 1 - (math.fabs((self.clustering[i] / self.relevantDegree[i]) - clus[i]) * self.proportion[i])
-      assortativity[i] = 2 - (math.fabs(assortativity[i] - self.globalAssortativity[i]) * self.proportion[i])
+      if self.globalAssortativity[i] == math.nan:
+        assortativity[i] = 0
+      else :
+        assortativity[i] = (self.add_test_assortativity(i, self.n, number_edges[i], assortativity[i]))
+        assortativity[i] = 2 - (math.fabs(assortativity[i] - self.globalAssortativity[i]) * self.proportion[i])
+      if relevantDegree[i] == 0 or self.relevantDegree[i] == 0:
+        clus[i] = 0
+      else:
+        clus[i] = 1 - (math.fabs((self.clustering[i] / self.relevantDegree[i]) - clus[i]) * self.proportion[i])
+      
 
     _max = np.max(assortativity)
     for i in range(self.labels):

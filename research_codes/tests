@@ -1,8 +1,1559 @@
+Emotions
+k: 5 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.73522290272
+k: 5 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.73439206191
+k: 5 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.737188434696
+k: 5 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.731590941461
+k: 5 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.740556900726
+k: 5 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.725435597968
+k: 5 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.745608412857
+k: 5 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.727681241988
+k: 5 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752067606704
+k: 5 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.731894791815
+k: 5 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.758816407919
+k: 5 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.731332193895
+k: 5 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.649674785168
+k: 5 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.645765085695
+k: 5 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.663416892181
+k: 5 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.653866970517
+k: 5 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.671552010635
+k: 5 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.658372501543
+k: 5 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.678008830651
+k: 5 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.654156577885
+k: 5 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.685296491478
+k: 5 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.659770687936
+k: 5 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.683924417225
+k: 5 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.674365000237
+k: 5 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.632279352419
+k: 5 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.628922755543
+k: 5 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.644340787162
+k: 5 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.638719555619
+k: 5 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.656703698429
+k: 5 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.643234581968
+k: 5 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.670170441058
+k: 5 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.649674785168
+k: 5 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.67044343161
+k: 5 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.666244124769
+k: 5 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.668494516451
+k: 5 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.662324929972
+k: 5 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.612028201111
+k: 5 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.602756017661
+k: 5 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.635657313773
+k: 5 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.62977021317
+k: 5 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.646876038551
+k: 5 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.632856193325
+k: 5 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.653347101552
+k: 5 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.654199306841
+k: 5 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.654761904762
+k: 5 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.653354223045
+k: 5 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.654752409438
+k: 5 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.651666429284
+k: 5 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.595765085695
+k: 5 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.592133124436
+k: 5 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.621589991929
+k: 5 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.605860988463
+k: 5 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.638197312823
+k: 5 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.638752789251
+k: 5 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.642959217585
+k: 5 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.642403741157
+k: 5 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.641017423919
+k: 5 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.64214261976
+k: 5 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.646061814556
+k: 5 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.64663153397
+k: 5 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.591568152685
+k: 5 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.580062194369
+k: 5 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.603643830414
+k: 5 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.609260314295
+k: 5 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.618795992973
+k: 5 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.617091582396
+k: 5 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.631742866638
+k: 5 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.630620044628
+k: 5 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.634840715947
+k: 5 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.634002753644
+k: 5 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.637069743151
+k: 5 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.637069743151
+k: 5 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.570804253905
+k: 5 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.573897355552
+k: 5 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.593816170536
+k: 5 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.596916393676
+k: 5 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.603377961354
+k: 5 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.604769026255
+k: 5 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.614311826425
+k: 5 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.612621658833
+k: 5 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.628379148269
+k: 5 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.626973840384
+k: 5 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.628369652946
+k: 5 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.62808716707
+k: 5 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.56322698571
+k: 5 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.564634667426
+k: 5 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.582300716897
+k: 5 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.584558230072
+k: 5 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.593263067939
+k: 5 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.59326544177
+k: 5 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.599456392727
+k: 5 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.601960784314
+k: 5 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.612339172957
+k: 5 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.609801547738
+k: 5 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.62359587903
+k: 5 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.621340739686
+k: 7 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.73522290272
+k: 7 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.730479988606
+k: 7 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.737188434696
+k: 7 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.726010065043
+k: 7 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.740556900726
+k: 7 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.738361107155
+k: 7 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.745608412857
+k: 7 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.730769595974
+k: 7 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752067606704
+k: 7 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.735270379338
+k: 7 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.758816407919
+k: 7 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.73329772587
+k: 7 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.689004415325
+k: 7 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.692693348526
+k: 7 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.706691829274
+k: 7 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.702827232588
+k: 7 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.716279732232
+k: 7 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.710976594027
+k: 7 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.724457579642
+k: 7 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.720559749323
+k: 7 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.744430992736
+k: 7 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.722017281489
+k: 7 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.758510183735
+k: 7 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.74112662014
+k: 7 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.653596353796
+k: 7 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.655628353036
+k: 7 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.675824906234
+k: 7 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.675321654085
+k: 7 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.696593552675
+k: 7 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.693251198785
+k: 7 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.714568200161
+k: 7 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.708996819067
+k: 7 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.727225466458
+k: 7 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.721905711437
+k: 7 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.733656174334
+k: 7 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.723883112567
+k: 7 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.592111759958
+k: 7 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.597179888905
+k: 7 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.652478279447
+k: 7 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.647191758059
+k: 7 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.673854626596
+k: 7 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.660995584675
+k: 7 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.692961591416
+k: 7 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.696344300432
+k: 7 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.710926743579
+k: 7 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.712054313251
+k: 7 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.720163319565
+k: 7 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.7145634525
+k: 7 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.555070502777
+k: 7 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.550600579215
+k: 7 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.601113326687
+k: 7 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.593260694108
+k: 7 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.656689455443
+k: 7 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.658678725728
+k: 7 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.676667616199
+k: 7 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.669952048616
+k: 7 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.687900583962
+k: 7 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.682298343066
+k: 7 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.6960190856
+k: 7 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.693775815411
+k: 7 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.53738546266
+k: 7 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.526738831126
+k: 7 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.571350235009
+k: 7 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.576691354508
+k: 7 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.606727436737
+k: 7 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.614587190809
+k: 7 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.653316241751
+k: 7 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.651946541328
+k: 7 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.670695057684
+k: 7 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.662301191663
+k: 7 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.676366139676
+k: 7 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.669911693491
+k: 7 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.528094288563
+k: 7 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.53484783744
+k: 7 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.548345439871
+k: 7 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.55256611119
+k: 7 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.578936998528
+k: 7 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.578089540901
+k: 7 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.6128804064
+k: 7 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.613167639937
+k: 7 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.647680767222
+k: 7 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.645461235342
+k: 7 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.662567060723
+k: 7 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.655015904667
+k: 7 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.520244029815
+k: 7 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.523619617338
+k: 7 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.535130323316
+k: 7 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.537943312918
+k: 7 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.559571286142
+k: 7 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.56098371552
+k: 7 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.583957650857
+k: 7 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.583114940892
+k: 7 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.610065042966
+k: 7 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.610907752932
+k: 7 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.635056734558
+k: 7 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.632269857095
+k: 10 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.73522290272
+k: 10 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.734703033756
+k: 10 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.737188434696
+k: 10 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.734128566681
+k: 10 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.740556900726
+k: 10 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.729397521721
+k: 10 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.745608412857
+k: 10 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.732742249442
+k: 10 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752067606704
+k: 10 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.731085315482
+k: 10 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.758816407919
+k: 10 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.734985519632
+k: 10 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.734097706879
+k: 10 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.731873427337
+k: 10 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.735780752979
+k: 10 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.731317950909
+k: 10 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.740559274557
+k: 10 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.728239092247
+k: 10 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.746465365807
+k: 10 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.730199876561
+k: 10 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.758251436168
+k: 10 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.731863932013
+k: 10 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.766697526468
+k: 10 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.748167402554
+k: 10 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.718606086502
+k: 10 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.717789488677
+k: 10 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.736348098561
+k: 10 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.725699093197
+k: 10 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.742527180364
+k: 10 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.72795185871
+k: 10 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.751796989982
+k: 10 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.729634904809
+k: 10 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.762756967194
+k: 10 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.740314769976
+k: 10 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.762742724208
+k: 10 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.74674073019
+k: 10 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.614651284243
+k: 10 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.630439633481
+k: 10 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.708771305132
+k: 10 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.710478089541
+k: 10 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.747310449604
+k: 10 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.736962920762
+k: 10 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752915064331
+k: 10 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.739759293548
+k: 10 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.7613587808
+k: 10 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.743668993021
+k: 10 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.757676969093
+k: 10 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.742802544747
+k: 10 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.539369985282
+k: 10 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.545287945687
+k: 10 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.627861653136
+k: 10 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.632106062764
+k: 10 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.707373118739
+k: 10 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.707945211983
+k: 10 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.74981246736
+k: 10 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.738337368846
+k: 10 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.763046574562
+k: 10 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.746462991976
+k: 10 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.751488391967
+k: 10 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.738031144661
+k: 10 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.511240089256
+k: 10 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.513528462232
+k: 10 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.56213264967
+k: 10 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.569152067607
+k: 10 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.634598585197
+k: 10 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.643085030622
+k: 10 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.707351754261
+k: 10 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.701205906091
+k: 10 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.746690879742
+k: 10 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.737435313108
+k: 10 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.747260599155
+k: 10 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.735778379148
+k: 10 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.495788824004
+k: 10 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.504790390733
+k: 10 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.52755305512
+k: 10 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.529547073067
+k: 10 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.575599392299
+k: 10 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.579276456345
+k: 10 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.641352134074
+k: 10 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.640810900631
+k: 10 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.703976166738
+k: 10 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.705965437022
+k: 10 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.725324027916
+k: 10 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.721654085363
+k: 10 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.488769406068
+k: 10 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.490746807197
+k: 10 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.509825286047
+k: 10 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.513492854769
+k: 10 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.539638228173
+k: 10 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.535149313963
+k: 10 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.58936523762
+k: 10 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.591907610502
+k: 10 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.637952808242
+k: 10 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.646681384418
+k: 10 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.685139818639
+k: 10 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.683466267863
+k: 13 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.73522290272
+k: 13 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.73188054883
+k: 13 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.737188434696
+k: 13 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.734418174049
+k: 13 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.740556900726
+k: 13 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.732746997104
+k: 13 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.745608412857
+k: 13 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.739213312444
+k: 13 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752067606704
+k: 13 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.730470493282
+k: 13 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.758816407919
+k: 13 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.734966528984
+k: 13 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.733532735128
+k: 13 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.731894791815
+k: 13 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.736348098561
+k: 13 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.725426102644
+k: 13 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.741119498647
+k: 13 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.732455015905
+k: 13 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.746175758439
+k: 13 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.726551298485
+k: 13 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.755436072734
+k: 13 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.729373783412
+k: 13 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.765282723259
+k: 13 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.742548544842
+k: 13 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.725373878365
+k: 13 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.72656316764
+k: 13 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.735507762427
+k: 13 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.728806437829
+k: 13 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.740554526896
+k: 13 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.734408678726
+k: 13 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.748416654798
+k: 13 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.72936903575
+k: 13 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.75657313773
+k: 13 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.740302900821
+k: 13 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
 Avg Score: 0.7680909652
-k: 13 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance GaussianNB
+k: 13 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.750697906281
+k: 13 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.599750747757
+k: 13 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.617808479324
+k: 13 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.714402031999
+k: 13 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.714477994588
+k: 13 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.744777572046
+k: 13 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.730204624223
+k: 13 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.748414280967
+k: 13 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.739491050658
+k: 13 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.755732801595
+k: 13 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.744236338603
+k: 13 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.765289844751
+k: 13 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.745062431752
+k: 13 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.508467454779
+k: 13 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.517772871861
+k: 13 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.608448464131
+k: 13 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.614724873
+k: 13 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.707655604615
+k: 13 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.720623842757
+k: 13 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.746743104021
+k: 13 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.736939182453
+k: 13 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.757130987988
+k: 13 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.745060057921
+k: 13 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.763882163035
+k: 13 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.746745477852
+k: 13 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.473588757537
+k: 13 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.473629112662
+k: 13 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.526154868727
+k: 13 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.538852490149
+k: 13 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.615762237098
+k: 13 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.630150026112
+k: 13 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.703154821251
+k: 13 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.704614727247
+k: 13 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.756839006789
+k: 13 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.746735982529
+k: 13 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.76191900489
+k: 13 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.739733181408
+k: 13 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.459552295494
+k: 13 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.46322935954
+k: 13 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.488774153729
+k: 13 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.495278450363
+k: 13 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.537964677396
+k: 13 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.546432132175
+k: 13 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.623365617433
+k: 13 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.627052176803
+k: 13 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.697538337369
+k: 13 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.701198784599
+k: 13 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.746444001329
+k: 13 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.736326734083
+k: 13 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.452525756065
+k: 13 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.452810615772
+k: 13 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.471060627641
+k: 13 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.475005934577
+k: 13 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.504529269335
+k: 13 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.507921473674
+k: 13 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.559875136495
+k: 13 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.563295826805
+k: 13 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.627581541091
+k: 13 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.62902245644
+k: 13 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.686870341357
+k: 13 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.692201965532
+-----------------------------------------------------------
 
-real	40m9,618s
-user	39m56,401s
-sys	0m6,543s
+Best Avg Score: 0.7680909652
+k: 13 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
 
+real	42m38,586s
+user	42m22,823s
+sys	0m6,657s
+
+
+
+Scene
+
+k: 5 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.747385288257
+k: 5 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.828417197919
+k: 5 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.749186371178
+k: 5 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826200170806
+k: 5 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.750224865785
+k: 5 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826820133252
+k: 5 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.750986160115
+k: 5 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.82571435144
+k: 5 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752024510946
+k: 5 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.825231695149
+k: 5 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.75354839359
+k: 5 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.823776825022
+k: 5 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.722588084414
+k: 5 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.793087821304
+k: 5 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.725843462358
+k: 5 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.799253083278
+k: 5 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.730207928963
+k: 5 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.806252390277
+k: 5 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.732215618108
+k: 5 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.807220147054
+k: 5 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.77459864908
+k: 5 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.805419064133
+k: 5 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.814567823489
+k: 5 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.841704264111
+k: 5 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.721410127012
+k: 5 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.793016508369
+k: 5 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.723001871965
+k: 5 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.790317831397
+k: 5 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.726118937322
+k: 5 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.792741177181
+k: 5 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.769472456817
+k: 5 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.795305711073
+k: 5 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.812696434066
+k: 5 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.838868568537
+k: 5 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.814776730129
+k: 5 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.838733994128
+k: 5 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.717738517324
+k: 5 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.785534976406
+k: 5 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.722309446376
+k: 5 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.78879294232
+k: 5 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.766423685096
+k: 5 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.793154820956
+k: 5 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.806805784399
+k: 5 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.827708525634
+k: 5 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.807709704598
+k: 5 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.827089569621
+k: 5 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.814424766292
+k: 5 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.828894103168
+k: 5 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.700089141168
+k: 5 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.75632744139
+k: 5 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.76157541199
+k: 5 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.786018351579
+k: 5 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.80438186351
+k: 5 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.821614289042
+k: 5 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.806461009366
+k: 5 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.827433913326
+k: 5 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.806531459643
+k: 5 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.825566262081
+k: 5 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.814284153288
+k: 5 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826607200881
+k: 5 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.737906131475
+k: 5 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.747054747055
+k: 5 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.784584328983
+k: 5 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.794757349114
+k: 5 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.801681173673
+k: 5 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.820157262273
+k: 5 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.803346675753
+k: 5 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.820646676041
+k: 5 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.807639829424
+k: 5 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.824183279992
+k: 5 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.816154104951
+k: 5 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.8267465199
+k: 5 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.774825815282
+k: 5 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.776555729045
+k: 5 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.77939545035
+k: 5 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.78389204717
+k: 5 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.785763867922
+k: 5 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.797250426296
+k: 5 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.801474855002
+k: 5 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.818291048789
+k: 5 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.807776991802
+k: 5 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.820372782613
+k: 5 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.816707355297
+k: 5 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826331150812
+k: 5 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.773511558159
+k: 5 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.773789045988
+k: 5 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.776212535549
+k: 5 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.778356524415
+k: 5 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.77891236273
+k: 5 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.78493154821
+k: 5 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.787771269514
+k: 5 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.796006475675
+k: 5 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.807012678175
+k: 5 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.818777011931
+k: 5 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.814976578877
+k: 5 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.822035840501
+k: 7 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.747385288257
+k: 7 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826476652203
+k: 7 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.749186371178
+k: 7 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.827653028068
+k: 7 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.750224865785
+k: 7 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.827240534502
+k: 7 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.750986160115
+k: 7 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826336470527
+k: 7 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752024510946
+k: 7 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.824882750609
+k: 7 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.75354839359
+k: 7 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.827514571705
+k: 7 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.719124662486
+k: 7 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.789412329661
+k: 7 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.728610720519
+k: 7 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.801874264945
+k: 7 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.731311697909
+k: 7 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.801736671239
+k: 7 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.736023096189
+k: 7 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.806657263711
+k: 7 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.772312897002
+k: 7 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.809293110538
+k: 7 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.803826744076
+k: 7 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.83906525421
+k: 7 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.696282381967
+k: 7 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.752588544497
+k: 7 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.710272800729
+k: 7 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.774683189413
+k: 7 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.722448046514
+k: 7 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.786434727099
+k: 7 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.765106408675
+k: 7 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.799451925593
+k: 7 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.79842133867
+k: 7 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.831441959035
+k: 7 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.795786066948
+k: 7 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.831024720859
+k: 7 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.673637074674
+k: 7 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.720871685602
+k: 7 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.690190589568
+k: 7 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.741239436053
+k: 7 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.74115964033
+k: 7 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.764988656067
+k: 7 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.782849095505
+k: 7 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.807910991106
+k: 7 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.787825760647
+k: 7 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.818561779143
+k: 7 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.788236672677
+k: 7 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.821119124231
+k: 7 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.667822338777
+k: 7 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.706265761452
+k: 7 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.709786406259
+k: 7 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.719484965336
+k: 7 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752936195052
+k: 7 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.763945560626
+k: 7 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.76872352723
+k: 7 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.789981826704
+k: 7 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.774403832495
+k: 7 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.797046695594
+k: 7 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.774394199498
+k: 7 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.800566190193
+k: 7 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.702242906807
+k: 7 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.705227554398
+k: 7 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.736317118267
+k: 7 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.737006524558
+k: 7 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.742200866682
+k: 7 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.749120090406
+k: 7 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.748571872223
+k: 7 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.758265542913
+k: 7 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.762071583233
+k: 7 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.780353142801
+k: 7 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.762420815325
+k: 7 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.78264363949
+k: 7 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.734035391919
+k: 7 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.732718546826
+k: 7 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.734933992403
+k: 7 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.734793379399
+k: 7 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.736385124352
+k: 7 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.736728892953
+k: 7 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.739844808102
+k: 7 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.747525613708
+k: 7 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.744275411703
+k: 7 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.753694182532
+k: 7 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.746703645874
+k: 7 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.761664409382
+k: 7 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.733966235626
+k: 7 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.733273091157
+k: 7 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.733619303951
+k: 7 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.733063609412
+k: 7 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.733201634446
+k: 7 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.733823609757
+k: 7 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.734235384443
+k: 7 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.73478820346
+k: 7 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.73464931577
+k: 7 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.741916765153
+k: 7 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.731812326211
+k: 7 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.739709658589
+k: 10 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.747385288257
+k: 10 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.823777400126
+k: 10 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.749186371178
+k: 10 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826822864997
+k: 10 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.750224865785
+k: 10 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.825506451233
+k: 10 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.750986160115
+k: 10 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826961608912
+k: 10 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752024510946
+k: 10 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.8278607845
+k: 10 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.75354839359
+k: 10 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.827793497296
+k: 10 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.686443928768
+k: 10 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.735078199808
+k: 10 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.69821315091
+k: 10 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.752656406806
+k: 10 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.714692189796
+k: 10 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.771000077639
+k: 10 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.720090118845
+k: 10 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.77923672156
+k: 10 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.751465078229
+k: 10 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.79073334426
+k: 10 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.784852327591
+k: 10 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826188956272
+k: 10 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.654669128113
+k: 10 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.690077294019
+k: 10 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.675580783465
+k: 10 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.718053243157
+k: 10 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.689005874691
+k: 10 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.735147356102
+k: 10 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.721551746448
+k: 10 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.747326771393
+k: 10 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.756598171743
+k: 10 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.788521636862
+k: 10 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.760544249963
+k: 10 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.796548223934
+k: 10 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.63874161426
+k: 10 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.663622064452
+k: 10 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.651830269465
+k: 10 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.677403864126
+k: 10 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.693312543313
+k: 10 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.706352314651
+k: 10 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.728287224345
+k: 10 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.746650161173
+k: 10 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.737141242743
+k: 10 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.758480200596
+k: 10 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.738317474832
+k: 10 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.764705848523
+k: 10 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.635280492749
+k: 10 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.660642736576
+k: 10 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.665613363124
+k: 10 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.663898689625
+k: 10 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.69781877313
+k: 10 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.699628482616
+k: 10 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.712498023079
+k: 10 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.725043060935
+k: 10 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.719910254972
+k: 10 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.735363595322
+k: 10 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.725593435759
+k: 10 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.742918309308
+k: 10 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.660975721972
+k: 10 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.657730408353
+k: 10 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.684316761703
+k: 10 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.686675695804
+k: 10 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.688192820973
+k: 10 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.689793911371
+k: 10 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.69671184111
+k: 10 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.697000255921
+k: 10 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.70245943358
+k: 10 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.710640004831
+k: 10 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.709116122187
+k: 10 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.721449521657
+k: 10 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.684108861495
+k: 10 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.68438577422
+k: 10 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.684316761703
+k: 10 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.683140098285
+k: 10 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.68404013653
+k: 10 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.685638351406
+k: 10 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.687293070281
+k: 10 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.688271322711
+k: 10 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.691035274023
+k: 10 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.692292739596
+k: 10 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.692360458128
+k: 10 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.696172249492
+k: 10 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.684108717719
+k: 10 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.684108717719
+k: 10 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.683693348631
+k: 10 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.683485879751
+k: 10 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.683554748493
+k: 10 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.683002073251
+k: 10 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.6821711913
+k: 10 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.684322512746
+k: 10 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.683694930168
+k: 10 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.685154688682
+k: 10 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.682251993455
+k: 10 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.681149806046
+k: 13 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.747385288257
+k: 13 Lambda: 0 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.82564620158
+k: 13 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.749186371178
+k: 13 Lambda: 0 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.82883170435
+k: 13 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.750224865785
+k: 13 Lambda: 0 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.824882606833
+k: 13 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.750986160115
+k: 13 Lambda: 0 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.826270333532
+k: 13 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752024510946
+k: 13 Lambda: 0 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.827859778067
+k: 13 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.75354839359
+k: 13 Lambda: 0 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.827100065274
+k: 13 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.678532075005
+k: 13 Lambda: 0.2 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.723469863096
+k: 13 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.701519713138
+k: 13 Lambda: 0.2 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.747078470108
+k: 13 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.708927919301
+k: 13 Lambda: 0.2 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.76189358845
+k: 13 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.726384491737
+k: 13 Lambda: 0.2 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.790303453789
+k: 13 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.752289634032
+k: 13 Lambda: 0.2 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.79335222551
+k: 13 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.76967431843
+k: 13 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.815091743515
+k: 13 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.635761855056
+k: 13 Lambda: 0.3 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.657382038917
+k: 13 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.657566647401
+k: 13 Lambda: 0.3 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.681536995022
+k: 13 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.680955420789
+k: 13 Lambda: 0.3 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.721115242277
+k: 13 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.722295931425
+k: 13 Lambda: 0.3 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.747216495142
+k: 13 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.743280337471
+k: 13 Lambda: 0.3 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.772140078157
+k: 13 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.746258946466
+k: 13 Lambda: 0.3 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.781766605418
+k: 13 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.614298674672
+k: 13 Lambda: 0.4 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.63245744947
+k: 13 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.630913869503
+k: 13 Lambda: 0.4 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.649764638561
+k: 13 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.671839729931
+k: 13 Lambda: 0.4 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.672406207676
+k: 13 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.701473273465
+k: 13 Lambda: 0.4 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.712137001349
+k: 13 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.71904716718
+k: 13 Lambda: 0.4 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.74181827854
+k: 13 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.734974824809
+k: 13 Lambda: 0.4 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.764391697794
+k: 13 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.607444581511
+k: 13 Lambda: 0.5 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.628089100911
+k: 13 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.636529475534
+k: 13 Lambda: 0.5 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.633911600717
+k: 13 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.665474906761
+k: 13 Lambda: 0.5 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.665347377381
+k: 13 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.681675020057
+k: 13 Lambda: 0.5 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.683619447727
+k: 13 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.691853216127
+k: 13 Lambda: 0.5 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.697464221323
+k: 13 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.701681748777
+k: 13 Lambda: 0.5 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.710544681292
+k: 13 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.628706475387
+k: 13 Lambda: 0.6 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.625596886385
+k: 13 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.646921754183
+k: 13 Lambda: 0.6 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.65017813856
+k: 13 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.653359903152
+k: 13 Lambda: 0.6 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.655721281447
+k: 13 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.663606105307
+k: 13 Lambda: 0.6 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.662925038029
+k: 13 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.673992920466
+k: 13 Lambda: 0.6 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.675938929673
+k: 13 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.685213205545
+k: 13 Lambda: 0.6 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.684732274566
+k: 13 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.646229184818
+k: 13 Lambda: 0.7 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.646021428387
+k: 13 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.64567492804
+k: 13 Lambda: 0.7 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.645467602936
+k: 13 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.646991198029
+k: 13 Lambda: 0.7 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.649624456886
+k: 13 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.652944390289
+k: 13 Lambda: 0.7 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.654266842649
+k: 13 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.659867927295
+k: 13 Lambda: 0.7 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.659879429382
+k: 13 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.667974741419
+k: 13 Lambda: 0.7 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.666317722127
+k: 13 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.646229184818
+k: 13 Lambda: 0.8 Threshold: 0.4 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.646090872232
+k: 13 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.645882972024
+k: 13 Lambda: 0.8 Threshold: 0.5 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.645606203075
+k: 13 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.644913489934
+k: 13 Lambda: 0.8 Threshold: 0.6 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.644636864761
+k: 13 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.645884122233
+k: 13 Lambda: 0.8 Threshold: 0.7 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.649972251217
+k: 13 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.649761187935
+k: 13 Lambda: 0.8 Threshold: 0.8 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.652260878817
+k: 13 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(GaussianNB)
+Avg Score: 0.654751368029
+k: 13 Lambda: 0.8 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+Avg Score: 0.648527732968
+-----------------------------------------------------------
+
+Best Avg Score: 0.841704264111
+k: 5 Lambda: 0.2 Threshold: 0.9 Classifier: BinaryRelevance(DecisionTreeClassifier)
+
+real	738m34,146s
+user	730m10,143s
+sys	4m2,787s
 
