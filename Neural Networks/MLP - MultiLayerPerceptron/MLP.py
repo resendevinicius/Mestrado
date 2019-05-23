@@ -1,5 +1,5 @@
 # Author: Vinicius Resende 
-# 22/05/2019 - 21:05
+# 15/05/2019 - 20:05
 # resendeviniciush@gmail.com
 
 import numpy as np
@@ -49,11 +49,11 @@ class MultiLayerPerceptron():
     else:
       return x * (1 - x)
 
-  def feed_forward(self):
+  def feed_forward(self, X):
 
-    out = np.dot(self.X, self.weights[0]) + np.transpose(self.bias[0])
+    out = np.dot(X, self.weights[0]) + np.transpose(self.bias[0])
     self.outputfromlayer[0] = self.act_function(out, 1)
-    
+  
     for i in range(1, self.n_layers - 1):
       out = np.dot(self.outputfromlayer[i - 1], self.weights[i]) + np.transpose(self.bias[i])
       self.outputfromlayer[i] = self.act_function(out, 1)
@@ -62,31 +62,33 @@ class MultiLayerPerceptron():
     out += self.outputbias
     self.outputfromlayer[self.n_layers - 1] = self.act_function(out, 1)
 
-  def back_propagation(self):
+  def back_propagation(self, X, y):
 
     layerserrors = [0 for i in range(self.n_layers)]
     layersdelta = [0 for i in range(self.n_layers)]
     layersadjust = [0 for i in range(self.n_layers)]
 
-    layerserrors[self.n_layers - 1] = ((self.outputfromlayer[self.n_layers - 1] - self.y))
-    layersdelta[self.n_layers - 1] = (layerserrors[self.n_layers - 1] * self.act_function(self.outputfromlayer[self.n_layers - 1], 2))
+    layerserrors[self.n_layers - 1] = ((self.outputfromlayer[self.n_layers - 1] - y))
+    layersdelta[self.n_layers - 1] =  (layerserrors[self.n_layers - 1] * self.act_function(self.outputfromlayer[self.n_layers - 1], 2))
     
     for i in range(self.n_layers - 2, -1, -1):
       layerserrors[i] = np.dot(layersdelta[i + 1], self.weights[i + 1].T)
       layersdelta[i] = (layerserrors[i] * self.act_function(self.outputfromlayer[i], 2))
-        
-    layersadjust[0] = self.X.T.dot(layersdelta[0])
+    
+
+    layersadjust[0] = self.alpha * (X.T.dot(layersdelta[0]))
 
     for i in range(1, self.n_layers):
-      layersadjust[i] = self.outputfromlayer[i - 1].T.dot(layersdelta[i])
+      print((self.outputfromlayer[i - 1]))
+      print((layersdelta[i]))
+      layersadjust[i] = self.alpha * self.outputfromlayer[i - 1].T.dot(layersdelta[i])
       if i < self.n_layers - 1:
-        self.bias[i] -= self.alpha * np.sum(layersdelta[i], axis = 0)
-      self.weights[i] -= layersadjust[i]
+        self.bias[i] -= (self.alpha * layersdelta[i])
+      self.weights[i] -= (layersadjust[i])
 
-    self.outputbias -= self.alpha * np.sum(layersdelta[self.n_layers - 1], axis = 0)
-    self.bias[0] -= self.alpha * np.sum(layersdelta[0], axis = 0)
-    
-    self.weights[0] -= layersadjust[0]
+    self.outputbias = (self.alpha * layersdelta[self.n_layers - 1])
+    self.bias[0] -= (self.alpha * layersdelta[0])
+    self.weights[0] -= (layersadjust[0])
   
 
   def fit(self, X, y, alpha = 0.0001):
@@ -107,14 +109,13 @@ class MultiLayerPerceptron():
     self.bias = [[1 - random.random() for i in range(self.n_neurons)] for j in range(self.n_layers)]
     self.outputbias = 1 - random.random()
     for i in range(self.cycles):
-      self.feed_forward()
-      self.back_propagation()
+      for j in range(len(X)):
+        self.feed_forward(X[j])
+        self.back_propagation(X[j], y[j])
 
   def predict(self, test):
-
     outputfromlayer = []
     outputfromlayer.append(self.act_function(np.dot(test, self.weights[0]) + np.transpose(self.bias[0]), 1))
-    for i in range(1, self.n_layers - 1):
-      outputfromlayer.append(self.act_function(np.dot(outputfromlayer[i - 1], self.weights[i]) + np.transpose(self.bias[i]), 1))
-    out = np.dot(outputfromlayer[self.n_layers - 2], self.weights[self.n_layers - 1]) + self.outputbias
-    return self.act_function(out ,1)
+    for i in range(1, self.n_layers):
+      outputfromlayer.append(self.act_function(np.dot(self.outputfromlayer[i - 1], self.weights[i]) + np.transpose(self.bias[i]), 1))
+    return outputfromlayer[len(outputfromlayer) - 1]
